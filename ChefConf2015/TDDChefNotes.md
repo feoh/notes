@@ -1,4 +1,4 @@
-*Test Driven Development With Chef*
+#Test Driven Development With Chef
 
 ##FoodCritic
 (FoodCritic)[http://acrmp.github.io/foodcritic/]
