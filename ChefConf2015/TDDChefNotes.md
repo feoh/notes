@@ -20,7 +20,8 @@
 * Add coverage report: ```at_exit { ChefSpec::Coverage.report! }```
 
 ###Best Practice
-Resource based testing - good example of how to do it right is 
+Resource based testing - good example of how to do it right are:
+
 [Sean O'Mara's httpd cookbook refactor](https://github.com/chef-cookbooks/httpd)
 
 [Sean O'Mara's mysql cookbook refactor](https://github.com/chef-cookbooks/mysql)
